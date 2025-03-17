@@ -1,0 +1,13 @@
+{
+    "name": "danyarango/appwebservices",
+    "authors": [
+        {
+            "name": "Nicolas Cardona Arango",
+            "email": "nicolas.cardona2003sj@gmail.com"
+        }
+    ],
+    "require": {
+        "econea/nusoap": "^0.9.18",
+        "firebase/php-jwt": "^6.11"
+    }
+}
